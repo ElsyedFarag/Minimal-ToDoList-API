@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
+    "Method": "AddToDo",
+    "RelativePath": "api/ToDos/AddToDo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Simple_ToDoList.API.Model.ToDo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
+    "Method": "Get",
+    "RelativePath": "api/ToDos/GetToDos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
