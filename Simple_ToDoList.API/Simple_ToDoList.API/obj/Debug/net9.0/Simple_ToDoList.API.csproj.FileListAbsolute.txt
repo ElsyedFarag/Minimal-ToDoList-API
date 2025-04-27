@@ -35,3 +35,41 @@ D:\My project Dotnet\WebAPI\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\ne
 D:\My project Dotnet\WebAPI\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.pdb
 D:\My project Dotnet\WebAPI\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.genruntimeconfig.cache
 D:\My project Dotnet\WebAPI\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\ref\Simple_ToDoList.API.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\appsettings.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Simple_ToDoList.API.staticwebassets.endpoints.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Simple_ToDoList.API.exe
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Simple_ToDoList.API.deps.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Simple_ToDoList.API.runtimeconfig.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Simple_ToDoList.API.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Simple_ToDoList.API.pdb
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.csproj.AssemblyReference.cache
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.AssemblyInfoInputs.cache
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.AssemblyInfo.cs
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.csproj.CoreCompileInputs.cache
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.sourcelink.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\scopedcss\bundle\Simple_ToDoList.API.styles.css
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets\msbuild.Simple_ToDoList.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets\msbuild.Simple_ToDoList.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets\msbuild.build.Simple_ToDoList.API.props
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Simple_ToDoList.API.props
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Simple_ToDoList.API.props
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_T.C351B681.Up2Date
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\refint\Simple_ToDoList.API.dll
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.pdb
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\Simple_ToDoList.API.genruntimeconfig.cache
+C:\Users\win 11\Source\Repos\Minimal-ToDoList-API\Simple_ToDoList.API\Simple_ToDoList.API\obj\Debug\net9.0\ref\Simple_ToDoList.API.dll

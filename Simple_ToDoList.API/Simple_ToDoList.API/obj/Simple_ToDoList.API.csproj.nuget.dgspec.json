@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My project Dotnet\\WebAPI\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj": {}
+    "C:\\Users\\win 11\\source\\repos\\Minimal-ToDoList-API\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj": {}
   },
   "projects": {
-    "D:\\My project Dotnet\\WebAPI\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj": {
+    "C:\\Users\\win 11\\source\\repos\\Minimal-ToDoList-API\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My project Dotnet\\WebAPI\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj",
+        "projectUniqueName": "C:\\Users\\win 11\\source\\repos\\Minimal-ToDoList-API\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj",
         "projectName": "Simple_ToDoList.API",
-        "projectPath": "D:\\My project Dotnet\\WebAPI\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj",
+        "projectPath": "C:\\Users\\win 11\\source\\repos\\Minimal-ToDoList-API\\Simple_ToDoList.API\\Simple_ToDoList.API\\Simple_ToDoList.API.csproj",
         "packagesPath": "C:\\Users\\win 11\\.nuget\\packages\\",
-        "outputPath": "D:\\My project Dotnet\\WebAPI\\Simple_ToDoList.API\\Simple_ToDoList.API\\obj\\",
+        "outputPath": "C:\\Users\\win 11\\Source\\Repos\\Minimal-ToDoList-API\\Simple_ToDoList.API\\Simple_ToDoList.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

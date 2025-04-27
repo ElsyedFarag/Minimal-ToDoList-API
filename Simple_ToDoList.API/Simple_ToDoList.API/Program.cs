@@ -16,7 +16,7 @@ namespace Simple_ToDoList.API
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddScoped<IToDoService, ToDoService>();
+            builder.Services.AddScoped<IToDoService<ToDo>, ToDoService>();
   
 
             var app = builder.Build();
@@ -26,13 +26,6 @@ namespace Simple_ToDoList.API
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
-                // Redirect root URL "/" to "/swagger"
-                app.MapGet("/", context =>
-                {
-                    context.Response.Redirect("/swagger");
-                    return Task.CompletedTask;
-                });
-                //app.MapOpenApi();
             }
 
             app.UseHttpsRedirection();

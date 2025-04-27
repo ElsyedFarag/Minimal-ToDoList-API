@@ -1,8 +1,18 @@
 [
   {
     "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
+    "Method": "GetAll",
+    "RelativePath": "api/ToDos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
     "Method": "AddToDo",
-    "RelativePath": "api/ToDos/AddToDo",
+    "RelativePath": "api/ToDos",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,11 +28,54 @@
   {
     "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
     "Method": "Get",
-    "RelativePath": "api/ToDos/GetToDos",
+    "RelativePath": "api/ToDos/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
+    "Method": "Update",
+    "RelativePath": "api/ToDos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "toDo",
+        "Type": "Simple_ToDoList.API.Model.ToDo",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Simple_ToDoList.API.Controllers.ToDosController",
+    "Method": "Delete",
+    "RelativePath": "api/ToDos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

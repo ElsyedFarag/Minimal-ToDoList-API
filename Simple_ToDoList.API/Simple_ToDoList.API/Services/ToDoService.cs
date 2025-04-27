@@ -1,9 +1,9 @@
 ﻿
 namespace Simple_ToDoList.API.Services
 {
-    public class ToDoService : IToDoService
+    public class ToDoService : IToDoService<ToDo>
     {
-        private  List<ToDo> _tasks;
+        private List<ToDo> _tasks;
 
         public ToDoService()
         {
@@ -37,9 +37,37 @@ namespace Simple_ToDoList.API.Services
             _tasks.Add(toDo);
         }
 
+        public ToDo DeleteById(int id)
+        {
+            var task = _tasks.Find(x => x.Id == id);
+            if (task != null)
+                _tasks.Remove(task!);
+
+            return task!;
+        }
+
         public IEnumerable<ToDo> GetAllToDos()
         {
             return _tasks;
+        }
+
+        public ToDo GetById(int id)
+        {
+            var task = _tasks.Find(x => x.Id == id);
+
+            return task!;
+        }
+
+        public ToDo Update(ToDo toDo, int id)
+        {
+            var task = _tasks.Find(x => x.Id == id);
+
+            if (task != null)
+            {
+                task.Title = toDo.Title;
+                task.IsCompleted = toDo.IsCompleted;
+            }
+            return task!;
         }
     }
 }
